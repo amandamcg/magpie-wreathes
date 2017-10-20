@@ -1,0 +1,14 @@
+baseurl: "/peoples-guide"
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: topics
+    values:
+      layout: default
+
+collections:
+  topics:
+    output: true
+    permalink: /topics/:path/
