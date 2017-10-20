@@ -7,7 +7,7 @@ description: When I was making Carmen Miranda, I thought—what if I made a wrea
   to collect enough to make it happen.
 look_for: Oranges, a dragonfly, 3 banana cars
 created_year: 2017
-mainImage: banana_rama-full.jpg
+image: banana_rama-full.jpg
 ---
 
 {% include imageSizer content="banana_rama-detail_1.jpg"%}
