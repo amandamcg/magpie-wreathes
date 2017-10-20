@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Wreathes by Magpie
+layout: default
 ---
 
 <div class="wreathes">

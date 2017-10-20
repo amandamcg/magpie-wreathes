@@ -1,14 +1,22 @@
-baseurl: ""
-permalink: pretty
-
-defaults:
-  - scope:
-      path: ""
-      type: wreathes
-    values:
-      layout: default
-
+---
+title: Magpie Wreathes
+timezone: UTC
 collections:
-  wreathes:
+  posts:
+    title: Posts
     output: true
-    permalink: /wreathes/:path/
+  uploads:
+    title: Uploads
+    output: true
+  wreathes:
+    title: Wreathes
+    output: true
+    permalink: "/wreathes/:path/"
+defaults:
+- scope:
+    path: ''
+    type: wreathes
+  values:
+    layout: default
+baseurl: ''
+permalink: pretty
