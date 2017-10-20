@@ -5,11 +5,9 @@ layout: default
 
 <div class="wreath-index">
 {% assign data_collection = site.collections | where: "label", "wreathes" | first %}
-{% assign data_list = data_collection.docs | sort: "weight" %}
+{% assign data_list = data_collection.docs | sort: "position" %}
 
 {% for data in data_list %}
-
-{{ data_list.size }}
 
 {% capture main_image %}{{ data['mainImage'] }}{% endcapture %}
 
