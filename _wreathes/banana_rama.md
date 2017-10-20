@@ -9,7 +9,6 @@ look_for: Oranges, a dragonfly, 3 banana cars
 created_year: 2017
 index: 1
 mainImage: banana_rama-full.jpg
-
 ---
 
 {% include imageSizer content="banana_rama-detail_1.jpg"%}
