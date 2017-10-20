@@ -5,14 +5,16 @@
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "gulp && jekyll serve"
+    "start": "gulp"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "archiver": "^2.0.0",
+    "bulma": "^0.6.0",
     "concurrent-transform": "^1.0.0",
     "gulp": "^3.9.1",
-    "gulp-image-resize": "^0.12.0",
-    "archiver": "^2.0.0"
+    "gulp-cli": "^1.4.0",
+    "gulp-image-resize": "^0.12.0"
   }
 }
