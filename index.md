@@ -3,18 +3,23 @@ title: Wreathes by Magpie
 layout: default
 ---
 
-<div class="wreathes">
+<div class="wreath-index">
+{% assign data_collection = site.collections | where: "label", "wreathes" | first %}
+{% assign data_list = data_collection.docs | sort: "weight" %}
 
-    {% assign data_collection = site.collections | where: "label", "wreathes" | first %}
-    {% assign data_list = data_collection.docs | sort: "weight" %}
+{% for data in data_list %}
 
-    {% for data in data_list %}
+{{ data_list.size }}
 
-    {% capture main_image %}{{ data['mainImage'] }}{% endcapture %}
+{% capture main_image %}{{ data['mainImage'] }}{% endcapture %}
 
-    <h2><a href="{{ site.baseurl }}{{ data.url }}">{{ data['title'] }}</a></h2>
+<div class="wreath-thumb">
+    <h2>
+        <a href="{{ site.baseurl }}{{ data.url }}">{{ data['title'] }}</a>
+        </h2>
     {% include imageSizer content=main_image %}
+</div>
 
+{% endfor %}
 
-    {% endfor %}
 </div>
