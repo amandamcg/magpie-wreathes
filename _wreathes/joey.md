@@ -1,5 +1,6 @@
 ---
 title: joey
+position: 0
 layout: wreath
 description: I love chickens. This was one of the first non-holiday wreaths I made.
 look_for: 

@@ -1,5 +1,6 @@
 ---
 title: Banana Rama
+position: 2
 layout: wreath
 description: When I was making Carmen Miranda, I thought—what if I made a wreath that
   was JUST bananas? Could it even be done? It took me about 2 years, but I was able
