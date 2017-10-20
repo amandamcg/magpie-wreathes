@@ -1,14 +1,14 @@
-baseurl: "/peoples-guide"
+baseurl: ""
 permalink: pretty
 
 defaults:
   - scope:
       path: ""
-      type: topics
+      type: wreathes
     values:
       layout: default
 
 collections:
-  topics:
+  wreathes:
     output: true
-    permalink: /topics/:path/
+    permalink: /wreathes/:path/
