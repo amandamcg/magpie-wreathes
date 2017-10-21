@@ -9,7 +9,7 @@ layout: default
 
 {% for data in data_list %}
 
-{% capture main_image %}{{ data['image'] }}{% endcapture %}
+{% capture main_image %}{{ data['mainImage'] }}{% endcapture %}
 
 <div class="wreath-thumb">
     <h2>
