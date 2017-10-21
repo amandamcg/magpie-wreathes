@@ -17,6 +17,10 @@ defaults:
     path: ''
     type: wreathes
   values:
-    layout: default
+    layout: wreath
+    description:
+    look_for:
+    created_year:
+    mainImage: 
 baseurl: ''
 permalink: pretty
