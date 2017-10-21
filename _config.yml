@@ -18,9 +18,9 @@ defaults:
     type: wreathes
   values:
     layout: wreath
-    description:
-    look_for:
-    created_year:
+    description: 
+    look_for: 
+    created_year: 
     mainImage: 
 baseurl: ''
 permalink: pretty
