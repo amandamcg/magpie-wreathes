@@ -18,11 +18,11 @@ defaults:
     type: wreathes
   values:
     layout: wreath
-    look_for:
-    created_year:
-    mainImage:
+    look_for: 
+    created_year: 
+    mainImage: 
     details:
-        - image: 
-          caption:
+    - image: 
+      caption: 
 baseurl: ''
 permalink: pretty
