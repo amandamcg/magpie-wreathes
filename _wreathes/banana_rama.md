@@ -1,6 +1,6 @@
 ---
 title: Banana Rama
-position: 2
+position: 1
 layout: wreath
 look_for: Oranges, a dragonfly, 3 banana cars
 created_year: 2017
