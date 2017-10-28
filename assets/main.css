@@ -10,8 +10,16 @@ body, h1, h2, h3, h4, p{
     font-weight: 100;
 }
 
+h1{
+    font-size: 300%;
+    margin-bottom: 0;
+}
 h4{
     margin-top: 0;
+}
+p{
+    margin-top:0;
+    margin-bottom: 15px;
 }
 a {
     text-decoration: none;
@@ -20,7 +28,7 @@ a {
 }
 
 nav{
-    min-height: 100px;
+    min-height: 80px;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-size: 80%;
@@ -44,6 +52,12 @@ nav a{
 }
 
 .inner-nav{
+    float: right;
+    width:50%;
+    text-align: right;
+    margin-top: 20px;
+}
+.inner-nav-element{
     margin-right: 20px;
 }
 
@@ -63,4 +77,17 @@ nav a{
 
 .wreath-thumb img{
     width:100%;
+}
+
+
+@media only screen and (max-width: 500px) {
+    .wreath-thumb {
+        width:100%;
+        flex-basis: 100%;
+        margin: 0;
+
+    }
+    .wreaths-nav-item{
+        display: none;
+    }
 }

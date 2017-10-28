@@ -12,19 +12,13 @@
 </head>
 
 <body>
+    {% assign current = page.url | downcase | split: '/' %}
 
     <nav>
-        <!-- TODO: make this selected work -->
-        <a href="{{ site.baseurl }}/" class="align-right logo">
+        <a href='/' class='{% if current[1] == 'wreathes' %}selected {% endif %} wreaths-nav-item'>wreathes</a>
+        <a href='/about' {% if current[1] == 'about' %}class='selected'{% endif %}>about</a>
+        <a href="{{node.url}}" class="align-right logo">
             Wreathes by Magpie
-        </a>
-        <a href="{{ site.baseurl }}/"
-            class="selected"
-        >
-            Wreathes
-        </a>
-        <a href="{{ site.baseurl }}/about.html">
-            About
         </a>
 
     </nav>

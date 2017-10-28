@@ -1,5 +1,5 @@
 ---
-title: Wreathes by Magpie
+title: Wreathes
 layout: default
 ---
 
@@ -16,7 +16,5 @@ layout: default
                 <h4>{{ data['title'] }}</h4>
             </a>
         </div>
-
     {% endfor %}
-
 </div>
