@@ -1,6 +1,7 @@
 ---
 title: Wreathes
 layout: default
+order: 1
 ---
 
 <div class="wreath-index">

@@ -1,6 +1,7 @@
 ---
 title: About
 layout: default
+order: 2
 ---
 
 ## Too Much is Never Enough
