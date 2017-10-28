@@ -21,24 +21,53 @@ layout: default
 {% for wreath in data_collection.docs %}
     {% if wreath.position == next_page %}
         <a href="{{ wreath.url }}"  class="inner-nav-element">
-            next <i class="fa fa-caret-right" aria-hidden="true"></i> 
+            next <i class="fa fa-caret-right" aria-hidden="true"></i>
         </a>
     {% endif %}
 {% endfor %}
 </div>
 
-<h1>{{ page.title }}</h1>
-<h3><em>{{ page.created_year }}</em></h3>
+<div class="main">
 
-{{ content }}
 
-<p> {{ page.look_for }}</p>
+    <div class="main-image">
+        {% capture main_image %}{{ page.mainImage }}{% endcapture %}
+        {% include imageSizer content=main_image %}
+    </div>
+    <div class="main-content">
+        <h1>{{ page.title }}</h1>
+        <h3><em>{{ page.created_year }}</em></h3>
+        {{ content }}
+        <p class="look-for"> Look for: {{ page.look_for }}</p>
+    </div>
 
-{% capture main_image %}{{ page.mainImage }}{% endcapture %}
 
-{% include imageSizer content=main_image %}
+</div>
+<div class="details">
+    {% for detail in page.details %}
+        <div class="detail">
+            {% capture detail_image %}{{ detail.image}}{% endcapture %}
+            {% include imageSizer content=detail_image %}
+            <p>{{ detail.caption}}</p>
+        </div>
+    {% endfor %}
+</div>
 
-{% for detail in page.details %}
-    <p>{{ detail.image}}</p>
-    <p>{{ detail.caption}}</p>
+<div class="inner-nav">
+{% for wreath in data_collection.docs %}
+    {% if wreath.position == prev_page %}
+        <a href="{{ wreath.url }}" class="inner-nav-element">
+            <i class="fa fa-caret-left" aria-hidden="true"></i> prev
+        </a>
+    {% endif %}
 {% endfor %}
+
+
+{% for wreath in data_collection.docs %}
+    {% if wreath.position == next_page %}
+        <a href="{{ wreath.url }}"  class="inner-nav-element">
+            next <i class="fa fa-caret-right" aria-hidden="true"></i>
+        </a>
+    {% endif %}
+{% endfor %}
+</div>

@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
 
 body{
-    margin:20px;
+    padding: 40px;
+    color:#3F3F3F;
+    background-color: #FAFAFA;
 }
 
 
@@ -58,29 +60,75 @@ nav a{
     margin-top: 20px;
 }
 .inner-nav-element{
-    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .wreath-index{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .wreath-thumb {
     object-fit: cover;
     width: 50%;
-    flex-basis: 45%;
-    margin: 5px;
+    flex-basis: 48%;
+    margin: 1%;
 }
 
 .wreath-thumb img{
     width:100%;
 }
 
+.main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.main-content{
+    flex-basis: 36%;
+    padding-left: 40px;
+}
+.main-image{
+   object-fit: cover;
+   flex-basis: 60%;
+}
+
+.main-image img{
+    width: 100%;
+}
+
+.details{
+
+}
+
+.details img{
+    width: 100%;
+}
+
+.look-for{
+    padding: 30px 0
+}
 
 @media only screen and (max-width: 500px) {
+
+    body{
+        padding: 10px;
+    }
+
+    nav{
+        min-height: 40px;
+    }
+    .inner-nav{
+        margin-bottom: 20px;
+        padding: 0;
+        margin-top: 0;
+    }
     .wreath-thumb {
         width:100%;
         flex-basis: 100%;
@@ -90,4 +138,14 @@ nav a{
     .wreaths-nav-item{
         display: none;
     }
+
+    .main-content{
+        flex-basis: 100%;
+        padding-left: 0;
+    }
+    .main-image{
+
+       flex-basis: 100%;
+    }
+
 }
