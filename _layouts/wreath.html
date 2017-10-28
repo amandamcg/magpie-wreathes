@@ -34,7 +34,7 @@ layout: default
         {% capture main_image %}{{ page.mainImage }}{% endcapture %}
         <a
             href="/images/2048-wide/{{ main_image }}"
-            data-lightbox="image-1"
+            data-lightbox="images"
             data-title="{{ page.title }}"
         >
             {% include imageSizer content=main_image %}
@@ -55,7 +55,7 @@ layout: default
             {% capture detail_image %}{{ detail.image}}{% endcapture %}
             <a
                 href="/images/2048-wide/{{ detail_image }}"
-                data-lightbox="image-1"
+                data-lightbox="images"
                 data-title="{{ detail.caption }}"
             >
                 {% include imageSizer content=detail_image %}
