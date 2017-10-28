@@ -8,23 +8,23 @@ layout: default
 {% assign prev_page = page.position | minus: 1%}
 
 
-{% for wreath in data_collection.docs %}
-    {% if wreath.position == next_page %}
-        <a href="{{ wreath.url }}">
-            next: {{ wreath.position }}
-        </a>
-    {% endif %}
-{% endfor %}
-
 
 {% for wreath in data_collection.docs %}
     {% if wreath.position == prev_page %}
-        <a href="{{ wreath.url }}">
-            prev: {{ wreath.position }}
+        <a href="{{ wreath.url }}" class="inner-nav">
+            <i class="fa fa-caret-left"></i>
         </a>
     {% endif %}
 {% endfor %}
 
+
+{% for wreath in data_collection.docs %}
+    {% if wreath.position == next_page %}
+        <a href="{{ wreath.url }}"  class="inner-nav">
+            <i class="fa fa-caret-right"></i>
+        </a>
+    {% endif %}
+{% endfor %}
 
 <h1>{{ page.title }}</h1>
 <p><em>{{ page.created_year }}</em></p>

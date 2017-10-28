@@ -5,14 +5,28 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
+    <link href="{{ site.baseurl }}/assets/main.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/font-awesome.min.css" rel="stylesheet">
+
+
 </head>
 
 <body>
 
     <nav>
-        <a href="{{ site.baseurl }}/">
+        <!-- TODO: make this selected work -->
+        <a href="{{ site.baseurl }}/" class="align-right logo">
             Wreathes by Magpie
         </a>
+        <a href="{{ site.baseurl }}/"
+            class="selected"
+        >
+            Wreathes
+        </a>
+        <a href="{{ site.baseurl }}/about.html">
+            About
+        </a>
+
     </nav>
 
     <main>
