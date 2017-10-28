@@ -32,7 +32,13 @@ layout: default
 
     <div class="main-image">
         {% capture main_image %}{{ page.mainImage }}{% endcapture %}
-        {% include imageSizer content=main_image %}
+        <a
+            href="/images/2048-wide/{{ main_image }}"
+            data-lightbox="image-1"
+            data-title="{{ page.title }}"
+        >
+            {% include imageSizer content=main_image %}
+        </a>
     </div>
     <div class="main-content">
         <h1>{{ page.title }}</h1>
@@ -47,7 +53,13 @@ layout: default
     {% for detail in page.details %}
         <div class="detail">
             {% capture detail_image %}{{ detail.image}}{% endcapture %}
-            {% include imageSizer content=detail_image %}
+            <a
+                href="/images/2048-wide/{{ detail_image }}"
+                data-lightbox="image-1"
+                data-title="{{ detail.caption }}"
+            >
+                {% include imageSizer content=detail_image %}
+            </a>
             <p>{{ detail.caption}}</p>
         </div>
     {% endfor %}

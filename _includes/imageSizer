@@ -1,12 +1,12 @@
-<img
-    src="/images/384-wide/{{ include.content }}"
-    srcset="
-        /images/384-wide/{{ include.content }} 384w,
-        /images/512-wide/{{ include.content }} 512w,
-        /images/768-wide/{{ include.content }} 768w,
-        /images/1024-wide/{{ include.content }} 1024w,
-        /images/1536-wide/{{ include.content }} 1536w,
-        /images/2048-wide/{{ include.content }} 2048w"
-    sizes="100vw"
-    alt="Photo {{ include.content }}"
-/>
+    <img
+        src="/images/384-wide/{{ include.content }}"
+        srcset="
+            /images/384-wide/{{ include.content }} 384w,
+            /images/512-wide/{{ include.content }} 512w,
+            /images/768-wide/{{ include.content }} 768w,
+            /images/1024-wide/{{ include.content }} 1024w,
+            /images/1536-wide/{{ include.content }} 1536w,
+            /images/2048-wide/{{ include.content }} 2048w"
+        sizes="100vw"
+        alt="Photo {{ include.content }}"
+    />
