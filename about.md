@@ -2,6 +2,7 @@
 title: About
 layout: default
 ---
+
 ## About Maggie
 
 Maggie is the greatest of all time. That's why we call her a goat. A goat that loves shiny things, especially if they are tinsel or small enough to adhere to a wreath.
