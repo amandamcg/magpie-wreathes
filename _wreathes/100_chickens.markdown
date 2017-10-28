@@ -3,6 +3,7 @@ title: 100 chickens
 position: 0
 look_for: this, that
 created_year: 2016
+size: '21 x 21'
 mainImage: 100_chickens-full.jpg
 layout: wreath
 details:

@@ -42,7 +42,8 @@ layout: default
     </div>
     <div class="main-content">
         <h1>{{ page.title }}</h1>
-        <h3><em>{{ page.created_year }}</em></h3>
+        <h3><em>{{ page.created_year }}, {{ page.size}}</em></h3>
+
         {{ content }}
         <p class="look-for"> Look for: {{ page.look_for }}</p>
     </div>
@@ -61,6 +62,7 @@ layout: default
                 {% include imageSizer content=detail_image %}
             </a>
             <p>{{ detail.caption}}</p>
+
         </div>
     {% endfor %}
 </div>
