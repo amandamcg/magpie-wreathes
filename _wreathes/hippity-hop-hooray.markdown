@@ -1,7 +1,7 @@
 ---
 title: Hippity Hop Hooray
 date: 2017-10-29 00:00:00 Z
-position: 1
+position: 2
 look_for: A bear dressed as a bunny
 created_year: 2017
 size: 19 x 24
