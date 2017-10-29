@@ -1,7 +1,7 @@
 ---
 title: Carmen Miranda
 date: 2017-10-21 00:14:00 Z
-position: 2
+position: 14
 look_for: velvet
 created_year: 2016
 size: 21 x 23

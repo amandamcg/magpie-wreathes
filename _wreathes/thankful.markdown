@@ -1,6 +1,7 @@
 ---
 title: Thankful
 date: 2017-10-29 00:01:00 Z
+position: 2
 look_for: feathers, a peacock, a turkey leg
 created_year: 2017
 size: 17 x 19
