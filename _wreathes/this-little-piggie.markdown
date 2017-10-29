@@ -1,0 +1,16 @@
+---
+title: This Little Piggie
+date: 2017-10-29 00:04:00 Z
+look_for: baaacon
+created_year: 2017
+size: 17 x 17
+details:
+- image: 
+  caption: This is one of my favorite finds—he sat on my desk for about a year, and
+    I’d push his tummy when I felt down. He hums Pop Goes the Weasel, and then farts
+    at random times.
+- image: 
+  caption: This guy oinks.
+---
+
+I didn’t mean to collect pigs, but I kept finding cute ones. And scary ones. And bacon things.
