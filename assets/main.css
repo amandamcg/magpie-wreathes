@@ -146,6 +146,10 @@ nav a{
     nav{
         min-height: 40px;
     }
+
+    nav a:first-child {
+    display: none;
+}
     .inner-nav{
         margin-bottom: 20px;
         padding: 0;
