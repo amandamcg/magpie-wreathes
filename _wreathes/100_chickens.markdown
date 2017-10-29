@@ -5,7 +5,7 @@ look_for: A fox, eggs
 created_year: 2016
 size: 21 x 21
 mainImage: 100_chickens-full.jpg
-details:
+details: 
 - image: 100_chickens-detail_1.jpg
   caption: I found a giant lot of vintage toy chickens that were so old all their
     feet had broken off—bad for playing, but awesome for wreath-making.
