@@ -2,7 +2,9 @@
 title: Carmen Miranda
 date: 2017-10-21 00:14:00 Z
 position: 2
+look_for: velvet
 created_year: 2016
+size: 21 x 23
 mainImage: banana_rama-full.jpg
 details:
 - image: banana_rama-detail_1.jpg
