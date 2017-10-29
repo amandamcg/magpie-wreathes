@@ -1,6 +1,6 @@
 ---
 title: Thankful
-position: 1
+position: 2
 mainImage: thankful-full.jpg
 ---
 
