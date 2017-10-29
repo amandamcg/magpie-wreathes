@@ -19,11 +19,11 @@ details:
 - image: if_it_fits-detail_5.jpg
   caption: This little pin cushion is a souvenir from Mineral Wells, Texas.
 - image: if_it_fits-detail_6.jpg
-  caption: 'I can’t believe the detail in this real (tiny) leather huarache.'
+  caption: I can’t believe the detail in this real (tiny) leather huarache.
 - image: if_it_fits-detail_7.jpg
   caption: 'These little moccasins were mailed from ____ to ____. The tag reads:'
 - image: if_it_fits-detail_8.jpg
-  caption: 'I knitted this little red sneaker.'
+  caption: I knitted this little red sneaker.
 - image: if_it_fits-detail_9.jpg
   caption: Horseshoe!
 - image: if_it_fits-detail_10.jpg

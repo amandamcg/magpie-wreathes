@@ -8,7 +8,7 @@ size: 17 x 19
 mainImage: oh_deer-full.jpg
 details:
 - image: oh_deer-detail_1.jpg
-  caption: 'My son found this shed antler in San Saba County.'
+  caption: My son found this shed antler in San Saba County.
 - image: oh_deer-detail_2.jpg
   caption: A souvenir from Denver, Colorado.
 - image: oh_deer-detail_3.jpg

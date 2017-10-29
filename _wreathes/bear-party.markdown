@@ -8,10 +8,10 @@ size: 27 x 27
 mainImage: bear_party-full.jpg
 details:
 - image: bear_party-detail_1.jpg
-  caption: 'Abearica the beautiful.'
+  caption: Abearica the beautiful.
 - image: bear_party-detail_2.jpg
-  caption: 'This sequined bear used to be an applique on my grandma’s Christmas tree
-    skirt.'
+  caption: This sequined bear used to be an applique on my grandma’s Christmas tree
+    skirt.
 - image: bear_party-detail_3.jpg
   caption: Not a real bear.
 - image: bear_party-detail_4.jpg

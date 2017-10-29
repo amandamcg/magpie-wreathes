@@ -17,7 +17,7 @@ details:
   caption: This animatronic bunny moves his head up and down.
 - image: hippity_hop_hooray-detail_5.jpg
   caption: I found these three vintage bunnies at the Warrenton vintage market.
-- image: hippity_hop_hooray-detail_6.jpg 
+- image: hippity_hop_hooray-detail_6.jpg
   caption: This guy is my favorite.
 ---
 
