@@ -11,13 +11,13 @@ details:
 - image: banana_rama-detail_2.jpg
   caption: This harmonic got lost in the mail for 2 months but it finally made its
     way here.
-- image: 
+- image: banana_rama-detail_3.jpg
   caption: These picks are from a Dutch banana company.
-- image: 
+- image: banana_rama-detail_4.jpg
   caption: Chiquita spoon!
-- image: 
+- image: banana_rama-detail_5.jpg
   caption: This is hand lotion. And yes, it smelled like bananas.
-- image: 
+- image: banana_rama-detail_6.jpg
   caption: Dole man! Wearing a beaded banana pin made by my sweet late Aunt Becky.
 layout: wreath
 ---

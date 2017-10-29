@@ -5,18 +5,19 @@ position: 1
 look_for: A bear dressed as a bunny
 created_year: 2017
 size: 19 x 24
+mainImage: hippity_hop_hooray-full.jpg
 details:
-- image: 
+- image: hippity_hop_hooray-detail_1.jpg
   caption: This vintage toy shakes.
-- image: 
+- image: hippity_hop_hooray-detail_2.jpg
   caption: There’s a baby chick hiding in here!
-- image: 
+- image: hippity_hop_hooray-detail_3.jpg
   caption: I won this guy at a neighbor’s Easter party 10 years ago.
-- image: 
+- image: hippity_hop_hooray-detail_4.jpg
   caption: This animatronic bunny moves his head up and down.
-- image: 
+- image: hippity_hop_hooray-detail_5.jpg
   caption: I found these three vintage bunnies at the Warrenton vintage market.
-- image: 
+- image: hippity_hop_hooray-detail_6.jpg 
   caption: This guy is my favorite.
 ---
 

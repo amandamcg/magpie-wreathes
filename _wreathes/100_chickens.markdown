@@ -11,24 +11,24 @@ details:
     feet had broken off—bad for playing, but awesome for wreath-making.
 - image: 100_chickens-detail_2.jpg
   caption: I love these scary chicken babies.
-- image: 
+- image: 100_chickens-detail_3.jpg
   caption: Duck.
-- image: 
+- image: 100_chickens-detail_4.jpg
   caption: Fluffy Easter chick!
-- image: 
+- image: 100_chickens-detail_5.jpg
   caption: Chickens on chickens!
-- image: 
+- image: 100_chickens-detail_6.jpg
   caption: There’s a drumstick under there.
-- image: 
+- image: 100_chickens-detail_7.jpg
   caption: When I was little, I always wanted the Fisher-Price barn that had this
     little chicken in it.
-- image: 
+- image: 100_chickens-detail_8.jpg
   caption: This sequined chicken used to be a dove that my grandma made for her Christmas
     tree skirt. But with a little red felt for a comb and a little orange felt for
     a beak, he’s transformed.
-- image: 
+- image: 100_chickens-detail_9.jpg
   caption: " I don’t know if Southampton, Canada is known for it’s chickens?"
-- image: 
+- image: 100_chickens-detail_10.jpg
   caption: Fox! And a rubber chicken...
 layout: wreath
 ---

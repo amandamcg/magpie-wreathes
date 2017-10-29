@@ -4,34 +4,29 @@ date: 2017-10-29 00:08:00 Z
 position: 12
 created_year: 2017
 size: 16 x 17
+mainImage: if_it_fits-full.jpg
 details:
-- image: 
+- image: if_it_fits-detail_1.jpg
   caption: These bare feet salt and pepper shakers were the first piece I found for
     this wreath.
-- image: 
+- image: if_it_fits-detail_2.jpg
   caption: There’s an old lady who lives in this shoe, which is a boot shot glass
     I got in Isla Mujeres, Mexico.
-- image: 
+- image: if_it_fits-detail_3.jpg
   caption: This shoe is my favorite. I wish I had them in real life.
-- image: 
+- image: if_it_fits-detail_4.jpg
   caption: Blue suede shoes!
-- image: 
+- image: if_it_fits-detail_5.jpg
   caption: This little pin cushion is a souvenir from Mineral Wells, Texas.
-- image: 
-  caption: 'I can’t believe the detail in this real (tiny) leather huarache.
-
-'
-- image: 
-  caption: 'These little moccasins were mailed from ____ to ____. The tag reads:
-
-'
-- image: 
-  caption: 'I knitted this little red sneaker.
-
-'
-- image: 
+- image: if_it_fits-detail_6.jpg
+  caption: 'I can’t believe the detail in this real (tiny) leather huarache.'
+- image: if_it_fits-detail_7.jpg
+  caption: 'These little moccasins were mailed from ____ to ____. The tag reads:'
+- image: if_it_fits-detail_8.jpg
+  caption: 'I knitted this little red sneaker.'
+- image: if_it_fits-detail_9.jpg
   caption: Horseshoe!
-- image: 
+- image: if_it_fits-detail_10.jpg
   caption: "“Tudor Potteries - Hollywoodware - Los Angeles, Calif”\n"
 ---
 

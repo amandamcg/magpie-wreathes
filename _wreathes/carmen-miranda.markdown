@@ -5,14 +5,14 @@ position: 14
 look_for: velvet
 created_year: 2016
 size: 21 x 23
-mainImage: banana_rama-full.jpg
+mainImage: carmen_miranda-full.jpg
 details:
-- image: banana_rama-detail_1.jpg
+- image: carmen_miranda-detail_1.jpg
   caption: I was especially excited when I found the pineapple.
-- image: banana_rama-detail_1.jpg
+- image: carmen_miranda-detail_2.jpg
   caption: The blue pieces were also hard to find, but necessary for a good mix of
     colors.
-- image: banana_rama-detail_1.jpg
+- image: carmen_miranda-detail_3.jpg
   caption: Velvet leaves. They’re wired, y’all. SO GLAMOROUS.
 ---
 

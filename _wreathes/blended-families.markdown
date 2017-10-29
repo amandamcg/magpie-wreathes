@@ -5,18 +5,19 @@ position: 15
 look_for: Noah, giraffe
 created_year: 2017
 size: 21 x 20
+mainImage: blended_families-full.jpg
 details:
-- image: 
+- image: blended_families-detail_1.jpg
   caption: My friend Stacy accidentally got a giraffe from a Noah’s ark set when she
     bought her nativity set. Now he’s part of their manger every year, so I added
     one into my wreath.
-- image: 
+- image: blended_families-detail_2.jpg
   caption: Single dad Joseph. He’s cool—he’s got his dog and a lamb.
-- image: 
+- image: blended_families-detail_3.jpg
   caption: This Mary and Joseph came from an antique store on Magazine Street in New
     Orleans. Their Jesus came from an antique mall in Austin. Reunited and it feels
     so good…
-- image: 
+- image: blended_families-detail_4.jpg
   caption: I thought these guys needed some wisemen.
 ---
 

@@ -5,12 +5,13 @@ position: 5
 look_for: baaacon
 created_year: 2017
 size: 17 x 17
+mainImage: this_little_piggie-full.jpg
 details:
-- image: 
+- image: this_little_piggie-detail_1.jpg
   caption: This is one of my favorite finds—he sat on my desk for about a year, and
     I’d push his tummy when I felt down. He hums Pop Goes the Weasel, and then farts
     at random times.
-- image: 
+- image: this_little_piggie-detail_2.jpg
   caption: This guy oinks.
 ---
 
