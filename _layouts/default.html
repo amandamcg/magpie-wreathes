@@ -15,20 +15,20 @@
 </head>
 
 <body>
-{% assign sorted_pages = site.pages | sort:"order"  %}
+    {% assign sorted_pages = site.pages | sort:"order" %}
     <nav>
-
         {% for node in sorted_pages %}
-           {% if page.url == node.url %}
-             <a href="{{node.url}}" class="selected">{{node.title}}</a>
-           {% else %}
-             <a href="{{node.url}}">{{node.title}}</a>
-           {% endif %}
-         {% endfor %}
+            {% if node.title %}
+                {% if page.url == node.url %}
+                    <a href="{{node.url}}" class="selected">{{node.title}}</a>
+                {% else %}
+                    <a href="{{node.url}}">{{node.title}}</a>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
         <a href="/" class="align-right logo">
             Wreathes by Magpie
         </a>
-
     </nav>
 
     <main>
