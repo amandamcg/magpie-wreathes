@@ -39,4 +39,4 @@ details:
 '
 ---
 
-Apparently there have always been people who collect shoes. 
+Apparently there have always been people who collect shoes. While working on this wreath, I was one of them. 
