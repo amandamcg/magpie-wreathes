@@ -1,12 +1,13 @@
 ---
 title: 500 Chickens
 date: 2017-11-01 19:53:00 Z
+published: false
 order: 3
 ---
 
 ##500 CHICKENS 
 
-This is a game and an experience. You gather the items and pay a nominal supply fee, and I'll make them into a wreath. I accept a very limited number of applications each year. Here are the rules:
+This is a game and an experience. You gather the items and pay a nominal supply fee, and I'll make them into a wreath for you. A very limited number of applications are accepted each year. Here are the rules:
 • You think of a theme, which is approved by me. 
 • You collect 500 items on your theme.* 
 • The items may range in size from 0-5 inches. 
