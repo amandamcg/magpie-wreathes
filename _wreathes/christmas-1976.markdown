@@ -28,7 +28,7 @@ details:
     never know...
 - image: christmas_1976-detail_8.jpg
   caption: Why yes, that IS orange velvet on that ornament. With pearls. It couldn't
-    be more lovely.
+    be more lovely. AMANDA--Can we crop in on the orange one a little more?
 ---
 
 When I was a kid, we had these Ideals Christmas books, and they had the most beautiful pictures I’d ever seen—all 70s glamour, with sequins reflecting candlelight. My family didn’t have any of these sequined ornaments, but I thought they were so fancy and lovely—especially the diorama ones.
