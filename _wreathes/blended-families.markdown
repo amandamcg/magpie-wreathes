@@ -34,6 +34,10 @@ details:
 - image: blended_families-detail_10.jpg
   caption: This vintage wiseman is in a REAL EGGSHELL. With glitter. I found him at
     Warrenton Antiques Week.
+- image: blended_families-detail_11.jpg
+  caption: Look who's hiding in there! Santa! And a lonely Noah!
+- image: blended_families-detail_12.jpg
+  caption: 'That glittery one in the back was a nightlight I found at Goodwill. '
 ---
 
 In my hunts, I kept finding nativity sets with pieces missing—Mary and Joseph with no baby, a few Wisemen with a camel, baby Jesus all alone, etc. It made me sad that something that had once been so special and treasured was now discarded. I wanted them to be happy again, so I started collecting them and reuniting the broken sets into new families. This was one of my favorite wreaths to put together.
