@@ -18,7 +18,22 @@ details:
     Orleans. Their Jesus came from an antique mall in Austin. Reunited and it feels
     so good…
 - image: blended_families-detail_4.jpg
-  caption: I thought these guys needed some wisemen.
+  caption: I thought these guys needed some wisemen. AMANDA--Can you zoom in on the
+    white set?
+- image: blended_families-detail_5.jpg
+  caption: 'This little nativity in the carved gourd came from the Cancun airport. '
+- image: blended_families-detail_6.jpg
+  caption: This metal ornament came from a Christmas shop in Salzburg, Austria.
+- image: blended_families-detail_7.jpg
+  caption: This beaded Mary and Jesus came from an antique store in Blanco, Texas.
+- image: blended_families-detail_8.jpg
+  caption: The tiny 70s plastic nativities with glitter might be my favorite. This
+    one came from Warrenton, too.
+- image: blended_families-detail_9.jpg
+  caption: 'Some families have two Marys. '
+- image: blended_families-detail_10.jpg
+  caption: This vintage wiseman is in a REAL EGGSHELL. With glitter. I found him at
+    Warrenton Antiques Week.
 ---
 
 In my hunts, I kept finding nativity sets with pieces missing—Mary and Joseph with no baby, a few Wisemen with a camel, baby Jesus all alone, etc. It made me sad that something that had once been so special and treasured was now discarded. I wanted them to be happy again, so I started collecting them and reuniting the broken sets into new families. This was one of my favorite wreaths to put together.
