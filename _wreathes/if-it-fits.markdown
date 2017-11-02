@@ -23,8 +23,11 @@ details:
 - image: if_it_fits-detail_6.jpg
   caption: I can’t believe the detail in this real (tiny) leather huarache.
 - image: if_it_fits-detail_7.jpg
-  caption: 'These little moccasins were mailed from ____ to ____. The tag reads: AMANDA--Can
-    we crop in on the moccasins?'
+  caption: 'The handwritten note on the tag reads: AMANDA--Can we crop in on the moccasins?'
+- image: if_it_fits-detail_11.jpg
+  caption: 'Zula McKay in Wichita Falls, Texas, mailed this pair of little moccasins
+    to Jane Bradford in Rule, Texas. '
+  Key: 
 - image: if_it_fits-detail_8.jpg
   caption: I knitted this little red sneaker. AMANDA--PLease can we crop in on the
     knitted sneaker?
@@ -32,9 +35,9 @@ details:
   caption: Horseshoe! AMANDA--Please can we crop in?
 - image: if_it_fits-detail_10.jpg
   caption: 'My internet research tells me that Tudor Potteries was only in business
-    from 1927-1939, and most of their pieces have beautiful Art Deco lines. I got
-    this shoe as part of a set from a thrift store--I bet it was a prized part of
-    someone''s collection.
+    from 1927-1939, and most of their pieces (including this shoe) have beautiful
+    Art Deco lines. I found this shoe as part of a set from a thrift store--I bet
+    it was a prized part of someone''s collection.
 
 '
 ---
