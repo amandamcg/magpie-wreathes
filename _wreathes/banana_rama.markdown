@@ -24,7 +24,8 @@ details:
 - image: banana_rama-detail_6.jpg
   caption: Dole man! Wearing a beaded banana pin made by my sweet late Aunt Becky.
 - image: banana_rama-detail_7.jpg
-  caption: Richard Scarry banana car! I think these might have been Happy Meal toys?
+  caption: Beep beep! Richard Scarry banana car! I think these might have been Happy
+    Meal toys?
 - image: banana_rama-detail_8.jpg
   caption: Arjon banana man! And a Nanoblox banana that my son put together for me.
     And what's that hiding on the left?!
