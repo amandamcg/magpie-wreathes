@@ -25,7 +25,7 @@ details:
 - image: if_it_fits-detail_7.jpg
   caption: 'The handwritten note on the tag reads: AMANDA--Can we crop in on the moccasins?'
 - image: if_it_fits-detail_11.jpg
-  caption: 'Zula McKay in Wichita Falls, Texas, mailed this pair of little moccasins
+  caption: 'Zula McKay in Wichita Falls, Texas, mailed this pair of little suede moccasins
     to Jane Bradford in Rule, Texas. '
   Key: 
 - image: if_it_fits-detail_8.jpg
