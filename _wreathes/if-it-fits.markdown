@@ -1,5 +1,5 @@
 ---
-title: If it Fits
+title: If It Fits
 date: 2017-10-29 00:08:00 Z
 position: 13
 created_year: 2017
