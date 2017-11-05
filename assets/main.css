@@ -105,11 +105,11 @@ nav a{
 
 .main-content{
     flex-basis: 36%;
-    padding-left: 40px;
+    padding: 0 40px 0 100px;
 }
 .main-image{
    object-fit: cover;
-   flex-basis: 60%;
+   flex-basis: 50%;
 }
 
 .main-image img{

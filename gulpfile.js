@@ -21,7 +21,7 @@ function generateImages(size) {
 
   console.log('Generating images at size: ' + size + ' pixels, in the folder: ' + folder);
 
-  gulp.src(SOURCE_IMAGE_PATH + "/*.{jpg,png}")
+  gulp.src(SOURCE_IMAGE_PATH + "/*.{jpg,png,JPG}")
     .pipe(parallel(
       imageResize({ width : size }),
       os.cpus().length
