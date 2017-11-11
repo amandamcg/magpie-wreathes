@@ -5,7 +5,7 @@ position: 8
 look_for: baaacon
 created_year: 2017
 size: 17 x 17
-mainImage: this_little_piggie-full.jpg
+mainImage: this_little_piggie-full
 details:
 - image: this_little_piggie-detail_1.jpg
   caption: This is one of my favorite finds—he sat on my desk for about a year, and

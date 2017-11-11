@@ -5,7 +5,7 @@ position: 14
 look_for: velvet
 created_year: 2016
 size: 21 x 23
-mainImage: carmen_miranda-full.jpg
+mainImage: carmen_miranda-full
 details:
 - image: carmen_miranda-detail_1.jpg
   caption: I was especially excited when I found the pineapple.

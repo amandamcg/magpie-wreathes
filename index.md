@@ -9,7 +9,7 @@ layout: default
     {% assign data_list = data_collection.docs | sort: "position" %}
 
     {% for data in data_list %}
-        {% capture main_image %}{{ data['mainImage'] }}{% endcapture %}
+        {% capture main_image %}{{ data['mainImage'] }}-grey.jpg{% endcapture %}
 
         <div class="wreath-thumb">
             <a href="{{ site.baseurl }}{{ data.url }}">

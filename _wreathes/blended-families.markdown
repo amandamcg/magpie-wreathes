@@ -5,7 +5,7 @@ position: 15
 look_for: Noah, giraffe
 created_year: 2017
 size: 21 x 20
-mainImage: blended_families-full.jpg
+mainImage: blended_families-full
 details:
 - image: blended_families-detail_1.jpg
   caption: My friend Stacy accidentally got a giraffe from a Noah’s ark set when she

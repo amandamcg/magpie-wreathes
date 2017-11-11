@@ -5,7 +5,7 @@ position: 12
 look_for: A Care Bear, bear wearing a beret (bearet?), bears snuggling.
 created_year: 2017
 size: 27 x 27
-mainImage: bear_party-full.jpg
+mainImage: bear_party-full
 details:
 - image: bear_party-detail_1.jpg
   caption: Abearica the beautiful.

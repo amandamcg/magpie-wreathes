@@ -69,9 +69,8 @@ nav a{
 
 .inner-nav{
     float: right;
-    width:50%;
-    text-align: right;
-    margin-top: 20px;
+text-align: right;
+margin: 40px 0;
 }
 .inner-nav-element{
     margin-left: 20px;
@@ -95,17 +94,13 @@ nav a{
 }
 
 .main{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: flex-start;
     width: 100%;
     margin-bottom: 20px;
 }
 
 .main-content{
-    flex-basis: 36%;
-    padding: 0 40px 0 100px;
+    /*flex-basis: 36%;*/
+    padding: 0 40px;
 }
 .main-image{
    object-fit: cover;
@@ -117,13 +112,22 @@ nav a{
 }
 
 .details{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 
 }
 
-.details img{
+.detail {
+    object-fit: cover;
+    width: 50%;
+    flex-basis: 48%;
+}
+
+.detail img{
     width: 100%;
 }
-
 .look-for{
     padding: 30px 0
 }
@@ -135,6 +139,9 @@ nav a{
 .lb-data .lb-caption{
     font-weight: inherit;
     line-height: inherit;
+}
+.caption{
+    font-size: 80%;
 }
 
 @media only screen and (max-width: 500px) {

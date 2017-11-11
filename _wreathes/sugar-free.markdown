@@ -4,7 +4,7 @@ date: 2017-10-29 00:05:00 Z
 position: 10
 created_year: 2017
 size: 17 x 17
-mainImage: sugar_free-full.jpg
+mainImage: sugar_free-full
 details:
 - image: sugar_free-detail_1.jpg
   caption: This googly eyed milkshake magnet is my spirit animal. Please note the

@@ -5,7 +5,7 @@ position: 6
 look_for: Mouse, Naughty elf
 created_year: 2015
 size: 21 x 21
-mainImage: christmas_1971-full.jpg
+mainImage: christmas_1971-full
 details:
 - image: christmas_1971-detail_1.jpg
   caption: How cute are they?

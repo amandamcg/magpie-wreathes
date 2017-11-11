@@ -4,7 +4,7 @@ date: 2017-10-29 00:08:00 Z
 position: 13
 created_year: 2017
 size: 16 x 17
-mainImage: if_it_fits-full.jpg
+mainImage: if_it_fits-full
 details:
 - image: if_it_fits-detail_1.jpg
   caption: These bare feet salt and pepper shakers were the first piece I found for

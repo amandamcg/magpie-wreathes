@@ -4,7 +4,7 @@ position: 0
 look_for: A fox, eggs
 created_year: 2016
 size: 21 x 21
-mainImage: 100_chickens-full.jpg
+mainImage: 100_chickens-full
 details:
 - image: 100_chickens-detail_1.jpg
   caption: 'I found a giant lot of vintage toy chickens that were so old all their

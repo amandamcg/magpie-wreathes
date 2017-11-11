@@ -5,7 +5,7 @@ position: 4
 look_for: deer
 created_year: 2017
 size: 17 x 19
-mainImage: oh_deer-full.jpg
+mainImage: oh_deer-full
 details:
 - image: oh_deer-detail_1.jpg
   caption: My son found this shed antler in San Saba County.

@@ -4,7 +4,7 @@ position: 1
 look_for: Oranges, a dragonfly, 3 banana cars
 created_year: 2017
 size: 19 x 19
-mainImage: banana_rama-full.jpg
+mainImage: banana_rama-full
 details:
 - image: banana_rama-detail_1.jpg
   caption: This is one of my favorite finds. No, the bottle no longer smells banana-y

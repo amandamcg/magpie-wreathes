@@ -4,7 +4,7 @@ date: 2017-10-29 00:06:00 Z
 position: 5
 created_year: 2017
 size: 21 x 21
-mainImage: christmas_1976-full.jpg
+mainImage: christmas_1976-full
 details:
 - image: christmas_1976-detail_1.jpg
   caption: Santa Mouse! And a tree! And a sparkly polyhedron!

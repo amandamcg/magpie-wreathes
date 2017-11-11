@@ -8,30 +8,12 @@ layout: default
 {% assign prev_page = page.position | minus: 1%}
 
 
-<div class="inner-nav">
-{% for wreath in data_collection.docs %}
-    {% if wreath.position == prev_page %}
-        <a href="{{ wreath.url }}" class="inner-nav-element">
-            <i class="fa fa-caret-left" aria-hidden="true"></i> prev
-        </a>
-    {% endif %}
-{% endfor %}
-
-
-{% for wreath in data_collection.docs %}
-    {% if wreath.position == next_page %}
-        <a href="{{ wreath.url }}"  class="inner-nav-element">
-            next <i class="fa fa-caret-right" aria-hidden="true"></i>
-        </a>
-    {% endif %}
-{% endfor %}
-</div>
 
 <div class="main">
 
 
     <div class="main-image">
-        {% capture main_image %}{{ page.mainImage }}{% endcapture %}
+        {% capture main_image %}{{ page.mainImage }}-white.jpg{% endcapture %}
         <a
             href="/images/2048-wide/{{ main_image }}"
             data-lightbox="images"
@@ -40,6 +22,25 @@ layout: default
             {% include imageSizer content=main_image %}
         </a>
     </div>
+    <div class="inner-nav">
+    {% for wreath in data_collection.docs %}
+        {% if wreath.position == prev_page %}
+            <a href="{{ wreath.url }}" class="inner-nav-element">
+                <i class="fa fa-caret-left" aria-hidden="true"></i> prev
+            </a>
+        {% endif %}
+    {% endfor %}
+
+
+    {% for wreath in data_collection.docs %}
+        {% if wreath.position == next_page %}
+            <a href="{{ wreath.url }}"  class="inner-nav-element">
+                next <i class="fa fa-caret-right" aria-hidden="true"></i>
+            </a>
+        {% endif %}
+    {% endfor %}
+    </div>
+
     <div class="main-content">
         <h1>{{ page.title }}</h1>
         <h3><em>{{ page.created_year }}, {{ page.size}}</em></h3>
@@ -61,7 +62,7 @@ layout: default
             >
                 {% include imageSizer content=detail_image %}
             </a>
-            <p>{{ detail.caption}}</p>
+            <p class="caption">{{ detail.caption}}</p>
 
         </div>
     {% endfor %}
