@@ -1,6 +1,11 @@
 ---
 title: Roar
 date: 2017-11-13 04:34:00 Z
+position: 0
+look_for: A fox, eggs
+created_year: 2016
+size: 21 x 21
+mainImage: roar_detail_1-full
 details:
 - image: roar_detail_1.jpg
   caption: Collie!
@@ -17,6 +22,7 @@ details:
 - image: roar_detail_7.jpg
   caption: I found the blue and yellow bobble-head lions in Isla Mujeres. The painted
     wooden one behind him is actually a vintage Christmas ornament I found in Warrenton.
+layout: wreath
 ---
 
 I made this wreath for one of my favorite Leos.
