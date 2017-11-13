@@ -5,7 +5,7 @@ position: 3
 look_for: A bear dressed as a bunny
 created_year: 2017
 size: 19 x 24
-mainImage: hippity_hop_hooray-full
+mainImage: hippity_hop_hooray-full.jpg
 details:
 - image: hippity_hop_hooray-detail_1.jpg
   caption: This vintage toy shakes.
@@ -21,4 +21,4 @@ details:
   caption: This guy is my favorite.
 ---
 
-I made this wreath for a friend whose nickname is Bun.
+I had to made a bunny wreath for my sweet friend Bun.

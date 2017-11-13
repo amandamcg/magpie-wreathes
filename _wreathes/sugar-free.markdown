@@ -8,7 +8,7 @@ mainImage: sugar_free-full
 details:
 - image: sugar_free-detail_1.jpg
   caption: This googly eyed milkshake magnet is my spirit animal. Please note the
-    official McDonald’s ice cream behind.
+    official McDonald’s ice cream behind it.
 - image: sugar_free-detail_2.jpg
   caption: Mmm...sugar-coated rice!
 - image: sugar_free-detail_3.jpg
@@ -23,3 +23,4 @@ details:
     cream is small.)
 ---
 
+Yummy.
