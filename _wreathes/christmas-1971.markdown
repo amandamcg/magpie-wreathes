@@ -5,9 +5,9 @@ position: 6
 look_for: Mouse, Naughty elf
 created_year: 2015
 size: 21 x 21
-mainImage: christmas_1971-full
+mainImage: Christmas_1971-full
 details:
-- image: christmas_1971-detail_1.jpg
+- image: Christmas_1971-detail_1.jpg
   caption: Angel!
 - image: Christmas_1971_detail_2.JPG
   caption: The pink and green ornaments were both made from kits.
