@@ -1,6 +1,11 @@
 ---
 title: Nest Egg
 date: 2017-10-29 00:06:00 Z
+tags:
+- chicken
+- bird
+- rooster
+- hen
 position: 11
 created_year: 2017
 size: 20 x 21
@@ -25,7 +30,7 @@ details:
     I found the egg at a show at the National Museum of Toys and Miniatures in Kansas
     City, Missouri.
 - image: nest_egg_detail_8.jpg
-  caption: 
+  caption: Mmm...delicious canned chicken...
 ---
 
 Chickens seem to find me. I love their personalities.
