@@ -18,7 +18,7 @@ details:
 - image: oh_deer-detail_5.jpg
   caption: Promotional Jack-in-the-Box reindeer.
 - image: oh_deer-detail_6.jpg
-  caption: 
+  caption: The vintage pink lusterware deer was made in Japan.
 ---
 
 I made this wreath for my sister-in-law and her family.
