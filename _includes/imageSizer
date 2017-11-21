@@ -8,5 +8,5 @@
             /images/1536-wide/{{ include.content }} 1536w,
             /images/2048-wide/{{ include.content }} 2048w"
         sizes="100vw"
-        alt="Photo {{ include.content }}"
+        alt="{{ include.caption }}, wreath by magpie"
     />

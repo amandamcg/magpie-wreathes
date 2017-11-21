@@ -14,12 +14,13 @@ layout: default
 
     <div class="main-image">
         {% capture main_image %}{{ page.mainImage }}-white.jpg{% endcapture %}
+        {% capture title %}{{ page.title }}{% endcapture %}
         <a
             href="/images/2048-wide/{{ main_image }}"
             data-lightbox="images"
             data-title="{{ page.title }}"
         >
-            {% include imageSizer content=main_image %}
+            {% include imageSizer content=main_image caption=title %}
         </a>
     </div>
     <div class="inner-nav">
