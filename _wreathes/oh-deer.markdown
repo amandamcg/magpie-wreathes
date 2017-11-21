@@ -23,8 +23,6 @@ details:
   caption: El Ciervo!
 - image: oh_deer-detail_8.jpg
   caption: My nephew likes Sven, so I put a couple of them in there.
-- image: 
-  caption: 
 ---
 
 I made this wreath for my sister-in-law and her family.
