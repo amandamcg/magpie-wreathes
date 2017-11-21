@@ -7,18 +7,22 @@ created_year: 2017
 size: 19 x 24
 mainImage: hippity_hop_hooray-full.jpg
 details:
-- image: hippity_hop_hooray-detail_1.jpg
-  caption: This vintage toy shakes.
 - image: hippity_hop_hooray-detail_2.jpg
-  caption: There’s a baby chick hiding in here!
+  caption: There’s a baby chick hiding in that blue egg!
 - image: hippity_hop_hooray-detail_3.jpg
   caption: I won this guy at a neighbor’s Easter party 10 years ago.
-- image: hippity_hop_hooray-detail_4.jpg
-  caption: This animatronic bunny moves his head up and down.
 - image: hippity_hop_hooray-detail_5.jpg
-  caption: I found these three vintage bunnies at the Warrenton vintage market.
+  caption: 'I found the pink plastic bunny and his yellow and green twins at the Warrenton
+    vintage market. '
 - image: hippity_hop_hooray-detail_6.jpg
   caption: This guy is my favorite.
+- image: hippity_hop_hooray-detail_7.jpg
+  caption: There are a few carrots hiding in this wreath.
+- image: hippity_hop_hooray-detail_8.jpg
+  caption: This yellow lusterware bunny was made in Japan.
+- image: hippity_hop_hooray-detail_9.jpg
+  caption: The little brown ceramic bunny is a Hagen-Renaker. They've been making
+    animal figurines in California for more than 60 years.
 ---
 
 I had to made a bunny wreath for my sweet friend Bun.
