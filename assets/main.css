@@ -129,7 +129,8 @@ margin: 40px 0;
     width: 100%;
 }
 .look-for{
-    padding: 30px 0
+    padding: 30px 0;
+    font-style: italic;
 }
 
 .lb-outerContainer{

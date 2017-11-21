@@ -45,8 +45,8 @@ layout: default
     <div class="main-content">
         <h1>{{ page.title }}</h1>
         <h3><em>{{ page.created_year }}, {{ page.size}}</em></h3>
-
         {{ content }}
+        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <p class="look-for"> Look for: {{ page.look_for }}</p>
     </div>
 
@@ -55,7 +55,7 @@ layout: default
 <div class="details">
     {% for detail in page.details %}
         <div class="detail">
-            {% capture detail_image %}{{ detail.image}}{% endcapture %}
+            {% capture detail_image %}{{ detail.image }}{% endcapture %}
             <a
                 href="/images/2048-wide/{{ detail_image }}"
                 data-lightbox="images"
