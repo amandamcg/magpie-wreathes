@@ -24,9 +24,11 @@ details:
 - image: bear_party-detail_7.jpg
   caption: Care bear! And ascot bear.
 - image: bear_party-detail_8.jpg
-  caption: Sad panda. :(
+  caption: Sad panda. Maybe he's sad because he lost his nose.
 - image: bear_party-detail_9.jpg
   caption: This wool bear might be a dog.
+- image: bear_party-detail_10.jpg
+  caption: Bears love hats.
 ---
 
 Made for Don, whose family had a similar wreath when he was a child. All the bears were hand sewn together on a wire armature.
