@@ -4,6 +4,6 @@
 <meta name="twitter:description" content="{{ page.title }}, wreath by magpie">
 
 <meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ page.mainImage }}">
+<meta name="twitter:image" content="{{ site.url }}/images/1024-wide/{{ page.mainImage }}-white.jpg">
 
 <!-- end of Twitter cards -->
