@@ -20,9 +20,13 @@ details:
 - image: bear_party-detail_5.jpg
   caption: The End.
 - image: bear_party-detail_6.jpg
-  caption: 'Bear blowing a trumpet.
-
-'
+  caption: "Handmade felt bear. \n"
+- image: bear_party-detail_7.jpg
+  caption: Care bear! And ascot bear.
+- image: bear_party-detail_8.jpg
+  caption: Sad panda. :(
+- image: bear_party-detail_9.jpg
+  caption: This wool bear might be a dog.
 ---
 
 Made for Don, whose family had a similar wreath when he was a child. All the bears were hand sewn together on a wire armature.
