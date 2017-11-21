@@ -5,7 +5,7 @@ position: 3
 look_for: A bear dressed as a bunny
 created_year: 2017
 size: 19 x 24
-mainImage: hippity_hop_hooray-full.jpg
+mainImage: hippity_hop_hooray-full
 details:
 - image: hippity_hop_hooray-detail_2.jpg
   caption: There’s a baby chick hiding in that blue egg!

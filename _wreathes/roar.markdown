@@ -5,7 +5,7 @@ position: 0
 look_for: A fox, eggs
 created_year: 2016
 size: 21 x 21
-mainImage: roar_detail_1-full
+mainImage: roar_full
 details:
 - image: roar_detail_1.jpg
   caption: Collie!

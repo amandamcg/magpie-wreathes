@@ -3,7 +3,7 @@ title: Pussy Wreath
 date: 2017-10-29 00:05:00 Z
 position: 9
 created_year: 2017
-mainImage: pussy_wreath-full
+mainImage: pussy_wreath_full
 details:
 - image: pussy_wreath_detail_1.jpg
   caption: This red calico kitty is a 1973 perfume pin by Avon. I found it at a thrift

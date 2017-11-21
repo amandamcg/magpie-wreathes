@@ -5,7 +5,7 @@ position: 7
 look_for: Gnome, scary baby Santa
 created_year: 2017
 size: 9 x 9
-mainImage: mini_christmas_1969-full
+mainImage: mini_christmas_1969_full
 details:
 - image: mini_christmas_1969_detail_1.jpg
   caption: Go home, scary baby Santa. You've got a hole in your pants.
