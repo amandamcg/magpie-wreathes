@@ -16,11 +16,14 @@ details:
 - image: nest_egg_detail_4.jpg
   caption: The red chicken head is some kind of vintage bottle cap topper.
 - image: nest_egg_detail_5.jpg
-  caption: 
+  caption: The chicken with the H was part of an alphabet puzzle. I found the green
+    chicken on a trip Mexico.
 - image: nest_egg_detail_6.jpg
-  caption: 
+  caption: I found this Hai Hai in a little bag of toys from a thrift store.
 - image: nest_egg_detail_7.jpg
-  caption: 
+  caption: If you look closely, you'll see a teeny tiny broken egg on the red chicken.
+    I found the egg at a show at the National Museum of Toys and Miniatures in Kansas
+    City, Missouri.
 - image: nest_egg_detail_8.jpg
   caption: 
 ---
