@@ -23,6 +23,8 @@ details:
 - image: hippity_hop_hooray-detail_9.jpg
   caption: The little brown ceramic bunny is a Hagen-Renaker. They've been making
     animal figurines in California for more than 60 years.
+- image: hippity_hop_hooray-detail_10.jpg
+  caption: Thumper! And the bear dressed as a bunny...
 ---
 
 I had to made a bunny wreath for my sweet friend Bun.
