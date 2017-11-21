@@ -31,6 +31,15 @@ details:
     City, Missouri.
 - image: nest_egg_detail_8.jpg
   caption: Mmm...delicious canned chicken...
+- image: nest_egg_detail_9.jpg
+  caption: Teeny chicken on a small chicken!
+- image: nest_egg_detail_10.jpg
+  caption: My friend Stacy brought me this bright chicken. The small wooden chicken
+    was part of a vintage Noah's ark playset.
+- image: nest_egg_detail_11.jpg
+  caption: I knitted this little white chicken and her pink sister.
+- image: nest_egg_detail_12.jpg
+  caption: Pom-pom chicken!
 ---
 
 Chickens seem to find me. I love their personalities.
