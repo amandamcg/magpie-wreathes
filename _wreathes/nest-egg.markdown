@@ -12,9 +12,9 @@ details:
 - image: nest_egg_detail_2.jpg
   caption: Fox! And a drumstick...
 - image: nest_egg_detail_3.jpg
-  caption: 
+  caption: Rubber chicken!
 - image: nest_egg_detail_4.jpg
-  caption: 
+  caption: The red chicken head is some kind of vintage bottle cap topper.
 - image: nest_egg_detail_5.jpg
   caption: 
 - image: nest_egg_detail_6.jpg
