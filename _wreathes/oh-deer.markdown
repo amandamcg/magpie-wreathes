@@ -12,9 +12,13 @@ details:
 - image: oh_deer-detail_2.jpg
   caption: A souvenir from Denver, Colorado.
 - image: oh_deer-detail_3.jpg
-  caption: I got this guy when I was in Mexico.
+  caption: I got this little yellow guy when I was in Mexico.
 - image: oh_deer-detail_4.jpg
-  caption: This guy came from Mexico, too.
+  caption: This beaded guy came from Mexico, too.
+- image: oh_deer-detail_5.jpg
+  caption: Promotional Jack-in-the-Box reindeer.
+- image: oh_deer-detail_6.jpg
+  caption: 
 ---
 
 I made this wreath for my sister-in-law and her family.
