@@ -48,7 +48,7 @@ details:
   caption: Pom-pom piggie came from Savers!
 - image: this_little_piggie-detail_17.jpg
   caption: Tennis, anyone?
-- image: this_little_piggie-detail_18.jpg
+- image: this_little_piggie_detail_18.jpg
   caption: The yellow bank came from a bank in Kansas, but I found him at the antique
     market in Warrenton, Texas.
 ---

@@ -5,24 +5,24 @@ position: 6
 look_for: Mouse, Naughty elf
 created_year: 2015
 size: 21 x 21
-mainImage: Christmas_1971-full
+mainImage: christmas_1971-full
 details:
-- image: Christmas_1971-detail_1.jpg
+- image: christmas_1971_detail_1.jpg
   caption: Angel!
-- image: Christmas_1971_detail_2.JPG
+- image: christmas_1971_detail_2.JPG
   caption: The pink and green ornaments were both made from kits.
-- image: Christmas_1971_detail_3.JPG
+- image: christmas_1971_detail_3.JPG
   caption: Santy Claus!
-- image: Christmas_1971_detail_4.JPG
+- image: christmas_1971_detail_4.JPG
   caption: Mrs. Claus! I found these two on eBay.
-- image: Christmas_1971_detail_5.JPG
+- image: christmas_1971_detail_5.JPG
   caption: Mouse in a house!
-- image: Christmas_1971_detail_6.JPG
+- image: christmas_1971_detail_6.JPG
   caption: I didn't put this one together, but somewhere I have a new-in-package kit
     for this elf-riding-a-candy-cane ornament.
-- image: Christmas_1971_detail_7.JPG
+- image: christmas_1971_detail_7.JPG
   caption: Red bird! This little guy came from the Warrenton antique market.
-- image: Christmas_1971_detail_8.JPG
+- image: christmas_1971_detail_8.JPG
   caption: Love this turquoise one, and the little tree diorama.
 ---
 
