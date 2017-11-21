@@ -42,4 +42,4 @@ details:
   caption: Pom-pom chicken!
 ---
 
-Chickens seem to find me. I love their personalities.
+Chickens seem to find me--this is the second chicken wreath I've made. I love their personalities.
