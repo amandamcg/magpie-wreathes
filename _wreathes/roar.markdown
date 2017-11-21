@@ -1,6 +1,5 @@
 ---
 title: Roar
-date: 2017-11-13 04:34:00 Z
 position: 0
 look_for: A fox, eggs
 created_year: 2016

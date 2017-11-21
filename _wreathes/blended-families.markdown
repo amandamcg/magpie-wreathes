@@ -1,6 +1,5 @@
 ---
 title: Blended Families
-date: 2017-10-28 23:57:00 Z
 position: 15
 look_for: Noah, giraffe
 created_year: 2017

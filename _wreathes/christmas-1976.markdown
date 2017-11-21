@@ -1,7 +1,7 @@
 ---
 title: Christmas 1976
-date: 2017-10-29 00:06:00 Z
 position: 5
+look_for:
 created_year: 2017
 size: 21 x 21
 mainImage: christmas_1976-full
@@ -9,8 +9,7 @@ details:
 - image: christmas_1976-detail_1.jpg
   caption: Santa Mouse! And a tree! And a sparkly polyhedron!
 - image: christmas_1976-detail_2.jpg
-  caption: This bear in a Santa boot came from the Warrenton antiques week. The sequined
-    truck came from an antique store in Blanco, Texas.
+  caption: This bear in a Santa boot came from the Warrenton antiques week. The sequined truck came from an antique store in Blanco, Texas.
 - image: christmas_1976-detail_3.jpg
   caption: Train and a candy cane!
 - image: christmas_1976-detail_4.jpg

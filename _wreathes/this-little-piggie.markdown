@@ -1,6 +1,5 @@
 ---
 title: This Little Piggie
-date: 2017-10-29 00:04:00 Z
 position: 8
 look_for: baaacon
 created_year: 2017

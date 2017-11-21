@@ -1,7 +1,7 @@
 ---
 title: If It Fits
-date: 2017-10-29 00:08:00 Z
 position: 13
+look_for: 
 created_year: 2017
 size: 16 x 17
 mainImage: if_it_fits-full
@@ -27,7 +27,7 @@ details:
 - image: if_it_fits-detail_11.jpg
   caption: 'Zula McKay in Wichita Falls, Texas, mailed this pair of little suede moccasins
     to Jane Bradford in Rule, Texas. '
-  Key: 
+  Key:
 - image: if_it_fits-detail_8.jpg
   caption: I knitted this little red sneaker. AMANDA--PLease can we crop in on the
     knitted sneaker?
@@ -42,4 +42,4 @@ details:
 '
 ---
 
-Apparently there have always been people who collect shoes. While working on this wreath, I was one of them. 
+Apparently there have always been people who collect shoes. While working on this wreath, I was one of them.

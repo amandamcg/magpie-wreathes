@@ -1,6 +1,5 @@
 ---
 title: Christmas 1971
-date: 2017-10-29 00:04:00 Z
 position: 6
 look_for: Mouse, Naughty elf
 created_year: 2015

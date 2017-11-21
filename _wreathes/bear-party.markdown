@@ -1,6 +1,5 @@
 ---
 title: Bear Party
-date: 2017-10-29 00:07:00 Z
 position: 12
 look_for: A Care Bear, bear wearing a beret (bearet?), bears snuggling.
 created_year: 2017

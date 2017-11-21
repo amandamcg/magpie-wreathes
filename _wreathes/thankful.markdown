@@ -1,6 +1,9 @@
 ---
 title: Thankful
 position: 2
+look_for: 
+created_year:
+size:
 mainImage: thankful_full
 details:
 - image: thankful_detail-1.jpg
