@@ -13,11 +13,9 @@ details:
 - image: this_little_piggie-detail_2.jpg
   caption: This guy oinks.
 - image: this_little_piggie-detail_3.jpg
-  caption: Pig in a pickle car! AMANDA--Can we zoom in on pig in pickle car?
+  caption: Pig in a pickle car!
 - image: this_little_piggie-detail_4.jpg
-  caption: Piglet is holding a string of sausages from a miniature show at the National
-    Museum of Toys and Miniatures in Kansas City, Missouri.  AMANDA--Can we zoom in
-    on Piglet?
+  caption: Piglet is holding a string of sausages from a miniature show at the National Museum of Toys and Miniatures in Kansas City, Missouri.
 - image: this_little_piggie-detail_5.jpg
   caption: Froggie!
 - image: this_little_piggie-detail_6.jpg
@@ -36,7 +34,7 @@ details:
 - image: this_little_piggie-detail_12.jpg
   caption: So many piggies...
 - image: this_little_piggie-detail_13.jpg
-  caption: 'Hamm! '
+  caption: Hamm!
 - image: this_little_piggie-detail_14.jpg
   caption: There was a Piggly Wiggly in my hometown of Boerne, Texas, so I had to
     get this pin.
@@ -50,6 +48,7 @@ details:
 - image: this_little_piggie_detail_18.jpg
   caption: The yellow bank came from a bank in Kansas, but I found him at the antique
     market in Warrenton, Texas.
+
 ---
 
 I didn’t mean to collect pigs, but I kept finding cute ones. And scary ones. And bacon things.

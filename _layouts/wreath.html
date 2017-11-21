@@ -62,7 +62,7 @@ layout: default
             >
                 {% include imageSizer content=detail_image %}
             </a>
-            <p class="caption">{{ detail.caption}}</p>
+            <div class="caption">{{ detail.caption  | markdownify }}</div>
 
         </div>
     {% endfor %}

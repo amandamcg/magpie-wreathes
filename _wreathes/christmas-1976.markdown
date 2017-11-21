@@ -19,15 +19,13 @@ details:
   caption: I love the rainbow ribbon on this ornament--and the fact that it's shaped
     like a hot air balloon.
 - image: christmas_1976-detail_6.jpg
-  caption: 'Tiny mouse in a golden house. '
+  caption: Tiny mouse in a golden house.
 - image: christmas_1976-detail_7.jpg
   caption: I can't look at these sequined ornaments without wondering about the people
-    who spent hours making them. Like, was it 1976, and that's why someone got inspired
-    to make a red, white and blue bell? Or just anytime patriotism? We'll probably
-    never know...
+    who spent hours making them. Like, was it 1976, and that's why someone got inspired to make a red, white and blue bell? Or just anytime patriotism? We'll probably never know...
 - image: christmas_1976-detail_8.jpg
   caption: Why yes, that IS orange velvet on that ornament. With pearls. It couldn't
-    be more lovely. AMANDA--Can we crop in on the orange one a little more?
+    be more lovely.
 ---
 
 When I was a kid, we had these Ideals Christmas books, and they had the most beautiful pictures I’d ever seen—all 70s glamour, with sequins reflecting candlelight. My family didn’t have any of these sequined ornaments, but I thought they were so fancy and lovely—especially the diorama ones.

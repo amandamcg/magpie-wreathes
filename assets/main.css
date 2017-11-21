@@ -144,6 +144,10 @@ margin: 40px 0;
     font-size: 80%;
 }
 
+.caption a{
+    text-decoration: underline;;
+}
+
 @media only screen and (max-width: 500px) {
 
     body{

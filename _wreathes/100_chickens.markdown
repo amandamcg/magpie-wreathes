@@ -7,8 +7,8 @@ size: 21 x 21
 mainImage: 100_chickens-full
 details:
 - image: 100_chickens-detail_1.jpg
-  caption: 'I found a giant lot of vintage toy chickens that were so old all their
-    feet had broken off—bad for playing, but awesome for wreath-making. '
+  caption: I found a giant lot of vintage toy chickens that were so old all their
+    feet had broken off—bad for playing, but awesome for wreath-making.
 - image: 100_chickens-detail_2.jpg
   caption: I love these scary chicken babies.
 - image: 100_chickens-detail_3.jpg
@@ -23,11 +23,9 @@ details:
   caption: When I was little, I always wanted the Fisher-Price barn that had this
     little chicken in it. I found this guy at the Warrenton antiques week.
 - image: 100_chickens-detail_1.jpg
-  caption: This sequined chicken used to be a dove that my grandma made for her Christmas
-    tree skirt. But with a little red felt for a comb and a little orange felt for
-    a beak, he’s transformed.
+  caption: This sequined chicken used to be a dove that my grandma made for her Christmas tree skirt. But with a little red felt for a comb and a little orange felt for a beak, he’s transformed.
 - image: 100_chickens-detail_9.jpg
-  caption: " Is Southampton, Canada known for its chickens?"
+  caption: Is Southampton, Canada known for its chickens?
 - image: 100_chickens-detail_10.jpg
   caption: Fox! And a rubber chicken...
 - image: 100_chickens-detail_11.jpg

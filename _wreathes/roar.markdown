@@ -1,6 +1,6 @@
 ---
 title: Roar
-position: 0
+position: 16
 look_for: A fox, eggs
 created_year: 2016
 size: 21 x 21
@@ -17,7 +17,7 @@ details:
   caption: Cowardly lion!
 - image: roar_detail_6.jpg
   caption: This Chinese guardian lion was one of two I found at a thrift store. The
-    other one went on the Pussy Wreath. (LINK IF POSSIBLE?)
+    other one went on the [Pussy Wreath](../pussy-wreath).
 - image: roar_detail_7.jpg
   caption: I found the blue and yellow bobble-head lions in Isla Mujeres. The painted
     wooden one behind him is actually a vintage Christmas ornament I found in Warrenton.

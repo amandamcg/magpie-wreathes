@@ -11,8 +11,7 @@ details:
 - image: hippity_hop_hooray-detail_3.jpg
   caption: I won this guy at a neighbor’s Easter party 10 years ago.
 - image: hippity_hop_hooray-detail_5.jpg
-  caption: 'I found the pink plastic bunny and his yellow and green twins at the Warrenton
-    vintage market. '
+  caption: I found the pink plastic bunny and his yellow and green twins at the Warrenton vintage market.
 - image: hippity_hop_hooray-detail_6.jpg
   caption: This guy is my favorite.
 - image: hippity_hop_hooray-detail_7.jpg

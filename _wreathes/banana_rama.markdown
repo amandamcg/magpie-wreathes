@@ -14,8 +14,7 @@ details:
     way here.
 - image: banana_rama-detail_3.jpg
   caption: These picks are from Fyffes, a Dutch banana company. I first found them
-    online but later found more at the Dan's Parents House (link to https://dansparentshouse.com/)
-    booth at the Brooklyn Flea (link to http://brooklynflea.com/).
+    online but later found more at the [Dan's Parents House](https://dansparentshouse.com/) booth at the [Brooklyn Flea](http://brooklynflea.com/).
 - image: banana_rama-detail_4.jpg
   caption: Chiquita spoon! Originally, this spoon was distributed with a matching
     dish (for banana splits?!), but I just found the spoon.

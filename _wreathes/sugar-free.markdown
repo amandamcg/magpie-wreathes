@@ -21,6 +21,7 @@ details:
     a sugar water mix to get that perfect golden glow. I got that green ice cream
     at the flower market in LA. It’s HUGE! (The market, not the ice cream. The ice
     cream is small.)
+
 ---
 
 Yummy.

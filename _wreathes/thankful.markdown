@@ -1,13 +1,13 @@
 ---
 title: Thankful
 position: 2
-look_for: 
+look_for:
 created_year:
 size:
 mainImage: thankful_full
 details:
 - image: thankful_detail-1.jpg
-  caption: 'Some of my best friends ARE turkeys. '
+  caption: Some of my best friends ARE turkeys.
 - image: thankful_detail_2.jpg
   caption: Some people might say this turkey is a peacock, but I'm going with turkey.
     I found him in Mexico. Also, his head wiggles.
@@ -27,8 +27,7 @@ details:
 - image: thankful_detail-9.jpg
   caption: This turkey hen might be a souvenir of Canada, but I found her and her
     mate in an antique store in Mason, Texas.
-- image:
-  caption:
+
 ---
 
 I made this wreath for Stacy, who collects turkeys of all kinds.

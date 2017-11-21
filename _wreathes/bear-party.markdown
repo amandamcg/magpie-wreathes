@@ -19,7 +19,7 @@ details:
 - image: bear_party-detail_5.jpg
   caption: The End.
 - image: bear_party-detail_6.jpg
-  caption: "Handmade felt bear. \n"
+  caption: Handmade felt bear.
 - image: bear_party-detail_7.jpg
   caption: Care bear! And ascot bear.
 - image: bear_party-detail_8.jpg
