@@ -13,8 +13,6 @@ details:
   caption: I love these scary chicken babies.
 - image: 100_chickens-detail_3.jpg
   caption: Duck.
-- image: 100_chickens-detail_4.jpg
-  caption: Fluffy Easter chick!
 - image: 100_chickens-detail_5.jpg
   caption: Chickens on chickens!
 - image: 100_chickens-detail_b.jpg

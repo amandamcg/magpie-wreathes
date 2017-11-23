@@ -6,10 +6,6 @@ created_year: 2017
 size: 21 x 20
 mainImage: blended_families-full
 details:
-- image: blended_families-detail_1.jpg
-  caption: My friend Stacy accidentally got a giraffe from a Noah’s ark set when she
-    bought her nativity set. Now he’s part of their manger every year, so I added
-    one into my wreath.
 - image: blended_families-detail_2.jpg
   caption: Single dad Joseph. He’s cool—he’s got his dog and a lamb.
 - image: blended_families-detail_3.jpg

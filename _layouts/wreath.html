@@ -52,8 +52,10 @@ layout: default
 
 
 </div>
+
 <div class="details">
     {% for detail in page.details %}
+    {% if detail.image != nil %}
         <div class="detail">
             {% capture detail_image %}{{ detail.image }}{% endcapture %}
             <a
@@ -66,8 +68,10 @@ layout: default
             <div class="caption">{{ detail.caption  | markdownify }}</div>
 
         </div>
+        {% endif %}
     {% endfor %}
 </div>
+
 
 <div class="inner-nav">
 {% for wreath in data_collection.docs %}

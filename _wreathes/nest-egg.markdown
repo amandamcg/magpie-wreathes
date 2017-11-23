@@ -1,7 +1,7 @@
 ---
 title: Nest Egg
 position: 11
-look_for: 
+look_for: Tiny broken egg, canned chicken, drumstick
 created_year: 2017
 size: 20 x 21
 mainImage: nest_egg-full

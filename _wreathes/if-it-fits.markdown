@@ -1,7 +1,7 @@
 ---
 title: If It Fits
 position: 13
-look_for:
+look_for: Horseshoe, ballet shoe, old lady who lives in a shoe
 created_year: 2017
 size: 16 x 17
 mainImage: if_it_fits-full
@@ -22,7 +22,7 @@ details:
 - image: if_it_fits-detail_6.jpg
   caption: I can’t believe the detail in this real (tiny) leather huarache.
 - image: if_it_fits-detail_7.jpg
-  caption: The handwritten note on the tag reads
+  caption: 'The handwritten note on the tag reads, "From Grand Canyon, Arizona. June 15 ''36."'
 - image: if_it_fits-detail_11.jpg
   caption: Zula McKay in Wichita Falls, Texas, mailed this pair of little suede moccasins to Jane Bradford in Rule, Texas.
 - image: if_it_fits-detail_8.jpg
@@ -34,6 +34,8 @@ details:
     from 1927-1939, and most of their pieces (including this shoe) have beautiful
     Art Deco lines. I found this shoe as part of a set from a thrift store--I bet
     it was a prized part of someone's collection.
+- image: if_it_fits-detail_11.jpg
+  caption: Zula McKay from Wichita Falls, Texas, mailed this pair of little suede moccasins to Jane Bradford in Rule, Texas.
 ---
 
 Apparently there have always been people who collect shoes. While working on this wreath, I was one of them.

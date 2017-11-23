@@ -1,7 +1,7 @@
 ---
 title: Sugar Free
 position: 10
-look_for:
+look_for: Cracker Jacks, maple syrup, a Hershey's kiss
 created_year: 2017
 size: 17 x 17
 mainImage: sugar_free-full

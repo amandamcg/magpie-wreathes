@@ -1,7 +1,7 @@
 ---
 title: Christmas 1976
 position: 5
-look_for:
+look_for: A drum, mice, a train
 created_year: 2017
 size: 21 x 21
 mainImage: christmas_1976-full

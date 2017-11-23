@@ -1,9 +1,9 @@
 ---
 title: Thankful
 position: 2
-look_for:
-created_year:
-size:
+look_for: A peacock, a chicken, feathers
+created_year: 2017
+size: 17 x 19
 mainImage: thankful_full
 details:
 - image: thankful_detail-1.jpg

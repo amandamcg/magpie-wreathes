@@ -11,7 +11,12 @@ Assembling the items is like putting together a puzzle—my goal is maximum item
 
 ---
 
+### Upcoming Show
+
+These Wreaths Are Bananas: Recent Work by Maggie Stephens, on view Nov. 26 - Jan 1, Hotel Ella, Austin Texas. Join us for the opening reception on Friday, Dec. 1, 6-9 pm. [More Details](https://thesewreathsarebananas.splashthat.com/?utm_source=Ella+Newsletter&utm_campaign=9b04c2b987-EMAIL_Oct_Salon_Series_2017_09_22&utm_medium=email&utm_term=0_865a48a53e-9b04c2b987-64176345)
+
+---
+
 ### About Maggie
 
-Maggie Stephens makes joyful things. She lives in Austin, Texas. 
-
+Maggie Stephens makes joyful things. She lives in Austin, Texas.

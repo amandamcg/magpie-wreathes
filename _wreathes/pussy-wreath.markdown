@@ -1,9 +1,9 @@
 ---
 title: Pussy Wreath
 position: 9
-look_for:
+look_for: Mice, a bird, a puppy
 created_year: 2017
-size: 
+size: 20 x 24
 mainImage: pussy_wreath_full
 details:
 - image: pussy_wreath_detail_1.jpg
