@@ -19,4 +19,4 @@ These Wreaths Are Bananas: Recent Work by Maggie Stephens, on view Nov. 26 - Jan
 
 ### About Maggie
 
-Maggie Stephens makes joyful things. She lives in Austin, Texas.
+Maggie Stephens makes joyful things. She lives in Austin, Texas. Contact her at maggie at maggiestephens dot com.
