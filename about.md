@@ -11,9 +11,9 @@ Assembling the items is like putting together a puzzle—Maggie's goal is maximu
 
 ---
 
-### Upcoming Show
+### Shows
 
-These Wreaths Are Bananas: Recent Work by Maggie Stephens, on view Nov. 26 - Jan 1, Hotel Ella, Austin Texas. Join us for the opening reception on Friday, Dec. 1, 6-9 pm. [More Details](https://thesewreathsarebananas.splashthat.com/?utm_source=Ella+Newsletter&utm_campaign=9b04c2b987-EMAIL_Oct_Salon_Series_2017_09_22&utm_medium=email&utm_term=0_865a48a53e-9b04c2b987-64176345)
+These Wreaths Are Bananas: Recent Work by Maggie Stephens, were on view from Nov. 26 - Jan 1, Hotel Ella, Austin Texas. An opening reception was held Friday, Dec. 1, 6-9 pm. [More Details](https://thesewreathsarebananas.splashthat.com/?utm_source=Ella+Newsletter&utm_campaign=9b04c2b987-EMAIL_Oct_Salon_Series_2017_09_22&utm_medium=email&utm_term=0_865a48a53e-9b04c2b987-64176345)
 
 ---
 
